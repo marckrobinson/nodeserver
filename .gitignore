@@ -1,3 +1,6 @@
+# Using TS, ignore JS 
+*.js
+
 # Logs
 logs
 *.log

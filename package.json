@@ -1,0 +1,25 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "Base node server with auth.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.13.4",
+    "passport": "^0.3.2",
+    "passport-google-oauth": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marckrobinson/nodeserver.git"
+  },
+  "author": "marck.robinson@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marckrobinson/nodeserver/issues"
+  },
+  "homepage": "https://github.com/marckrobinson/nodeserver#readme"
+}
